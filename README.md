@@ -23,6 +23,11 @@ $php spark serve
 
 Kemudian buka browser anda (Tab baru) lalu ketikkan -> localhost:8080
 
+Login: admin
+
+password: asdf1234
+
+
 ## Server Requirements
 
 PHP version 7.4 or higher is required, with the following extensions installed:
