@@ -10,7 +10,9 @@ CI_ENVIRONMENT = development
 app.baseURL = 'http://localhost:8080/'
 
 database.default.database = ci4_test
+
 database.default.username = root
+
 database.default.password = asdf
 
 ## Run Server
