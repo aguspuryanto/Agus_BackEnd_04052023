@@ -17,8 +17,7 @@ database.default.password = asdf
 
 ## Run Server
 ```bash
-$php spark migrate
-$php spark db:seed
+$php spark migrate && php spark db:seed
 $php spark serve
 ```
 
